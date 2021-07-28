@@ -1,0 +1,7 @@
+name: JZLib
+main: io.github.jaronz.jzlib.JZLib
+version: "1.0.0"
+api: ["1.0.0"]
+
+author: JaronZ
+description: Library for JaronZ Plugins
